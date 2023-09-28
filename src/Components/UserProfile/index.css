@@ -1,7 +1,7 @@
 .user-card-container {
   display: flex;
   align-items: center;
-  border-radius: 12px;
+  border-radius: 14px;
   margin-bottom: 30px;
 }
 
